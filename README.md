@@ -2,5 +2,5 @@
 
 Door Security Application
 
-![](assets/image/IMG_1297.PNG)
+![](assets/images/IMG_1297.PNG)
 
