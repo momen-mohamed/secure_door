@@ -2,5 +2,5 @@
 
 Door Security Application
 
-![](assets/images/IMG_1297.PNG)
+<img src="assets/images/IMG_1297.PNG" width="100" height="100">
 
